@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0022-generate-parentheses) |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Arnav7621/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Arnav7621/Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -30,9 +32,26 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Arnav7621/Leetcode/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Arnav7621/Leetcode/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
