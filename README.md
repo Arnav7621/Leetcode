@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/Arnav7621/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Arnav7621/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arnav7621/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Arnav7621/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
