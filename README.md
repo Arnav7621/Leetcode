@@ -28,6 +28,7 @@
 | [0367-valid-perfect-square](https://github.com/Arnav7621/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Arnav7621/Leetcode/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arnav7621/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arnav7621/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arnav7621/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arnav7621/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arnav7621/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
 |  |
 | ------- |
