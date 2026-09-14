@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Arnav7621/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/Arnav7621/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/Arnav7621/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Arnav7621/Leetcode/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/Arnav7621/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arnav7621/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Arnav7621/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
