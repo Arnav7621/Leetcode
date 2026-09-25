@@ -7,6 +7,7 @@
 | [0022-generate-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Arnav7621/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Arnav7621/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arnav7621/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Arnav7621/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arnav7621/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Arnav7621/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arnav7621/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arnav7621/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -144,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arnav7621/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arnav7621/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav7621/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -158,6 +162,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arnav7621/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -197,4 +202,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Arnav7621/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
