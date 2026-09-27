@@ -212,4 +212,8 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Arnav7621/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
