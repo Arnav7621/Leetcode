@@ -8,6 +8,7 @@
 | [0022-generate-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Arnav7621/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Arnav7621/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arnav7621/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -188,6 +190,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Arnav7621/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Arnav7621/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arnav7621/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
